@@ -1,0 +1,17 @@
+{
+  "ProjectName": "TaiwoChimdalu workout sesh",
+  "workoutInfo": [
+    {
+      "workoutName": "Agility Drill",
+      "description": "Improves speed and footwork.",
+      "ballCount": 5,
+      "ballDirection": "right"
+    },
+    {
+      "workoutName": "Balance Practice",
+      "description": "Enhances core stability.",
+      "ballCount": 3,
+      "ballDirection": "center"
+    }
+  ]
+}
