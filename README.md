@@ -1,4 +1,4 @@
-# 🏋 Workout Ball Spawner (Unity + JSON)
+# Workout Ball Spawner (Unity + JSON)
 
 A Unity-based interactive system that dynamically loads workout data from a JSON file, generates UI buttons for each workout, and spawns balls with physics-based motion when selected by the user.
 
@@ -114,7 +114,7 @@ Use Debug.Log() to confirm ball positions during testing
 
 Reimport the JSON file if Unity doesn't reflect changes
 
-💡 Optional Enhancements
+ Optional Enhancements
 Add "Reset" button to clear existing balls
 
 Add animations or sound on spawn
